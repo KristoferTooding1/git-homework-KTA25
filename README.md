@@ -1,4 +1,3 @@
 # git-homework-KTA25
-- reede!!!
-- Laupäev 22 november
-- Pühapäev 23 november
+# NÄDAL3
+- Esmaspäev 1 detsember
