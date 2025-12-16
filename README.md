@@ -6,3 +6,4 @@
 - Neljapäev 18 detsember
 - REEDELOL! 19 detsember
 - Laupäev 20 detsember
+- Pühapäev 21 detsember
