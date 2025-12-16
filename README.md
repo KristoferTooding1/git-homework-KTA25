@@ -5,3 +5,4 @@
 - Kolmapäev 3 detsember
 - Neljapäev 4 detsember
 - REEDE! 5 detsember
+- Laupäev 6 detsember
