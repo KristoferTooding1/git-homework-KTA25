@@ -8,3 +8,4 @@
 - Teisipäev 25 november
 - Kolmapäev 26 november
 - Neljapäev 27 november
+- REEEEEDE 28 november
