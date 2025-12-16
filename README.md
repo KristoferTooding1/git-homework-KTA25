@@ -5,3 +5,4 @@
 - Pühapäev 23 november
 # NÄDAL 2
 - Esmaspäev 24 november
+- Teisipäev 25 november
