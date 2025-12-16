@@ -3,3 +3,4 @@
 - Esmaspäev 1 detsember
 - Teisipäev 2 detsember
 - Kolmapäev 3 detsember
+- Neljapäev 4 detsember
