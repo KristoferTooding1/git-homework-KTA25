@@ -6,3 +6,4 @@
 - Neljapäev 11 detsember
 - REEDE!!! 12 detsember
 - Laupäev 13 detsember
+- Pühapäev 14 detsember
