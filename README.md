@@ -7,3 +7,4 @@
 - Esmaspäev 24 november
 - Teisipäev 25 november
 - Kolmapäev 26 november
+- Neljapäev 27 november
