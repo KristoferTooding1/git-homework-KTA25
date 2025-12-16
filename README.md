@@ -6,3 +6,4 @@
 # NÄDAL 2
 - Esmaspäev 24 november
 - Teisipäev 25 november
+- Kolmapäev 26 november
